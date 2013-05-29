@@ -1,0 +1,8 @@
+This is a simple iOS application that determines the screen size
+of the iDevice.
+
+Supports both iPhone and iPad.
+Supports both orientation.
+
+Wednesday, May 29, 2013
+Deployment Target: 6.0
